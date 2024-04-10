@@ -1,5 +1,0 @@
-{
-    "base_url":"https://api.worldnewsapi.com/search-news",
-    "api_key":"ae48b5cb8ffe44c2b061a25785c74d97",
-    "keywords":["stock", "bond", "interest rate", "finance", "commodities", "inflation", "forex", "cryptocurrency"]
-}
