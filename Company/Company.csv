@@ -1,0 +1,369 @@
+id,name,fullTimeEmployees,Industry,Country
+GOOGL,Alphabet Inc.,182502.0,Communication Services,United States
+MTCH,"Match Group, Inc.",2600.0,Communication Services,United States
+META,"Meta Platforms, Inc.",67317.0,Communication Services,United States
+NFLX,"Netflix, Inc.",13000.0,Communication Services,United States
+OMC,Omnicom Group Inc.,75900.0,Communication Services,United States
+PARA,Paramount Global,21900.0,Communication Services,United States
+TTWO,"Take-Two Interactive Software, ",11580.0,Communication Services,United States
+VZ,Verizon Communications Inc.,105400.0,Communication Services,United States
+DIS,Walt Disney Company (The),173250.0,Communication Services,United States
+ABNB,"Airbnb, Inc.",6907.0,Consumer Cyclical,United States
+AMZN,"Amazon.com, Inc.",1525000.0,Consumer Cyclical,United States
+APTV,Aptiv PLC,154000.0,Consumer Cyclical,Ireland
+AZO,"AutoZone, Inc.",71400.0,Consumer Cyclical,United States
+BBWI,"Bath & Body Works, Inc.",8981.0,Consumer Cyclical,United States
+BBY,"Best Buy Co., Inc.",85000.0,Consumer Cyclical,United States
+BKNG,Booking Holdings Inc. Common St,23364.0,Consumer Cyclical,United States
+BWA,BorgWarner Inc.,39900.0,Consumer Cyclical,United States
+CZR,"Caesars Entertainment, Inc.",51000.0,Consumer Cyclical,United States
+KMX,CarMax Inc,30000.0,Consumer Cyclical,United States
+CCL,Carnival Corporation,106000.0,Consumer Cyclical,United States
+CMG,"Chipotle Mexican Grill, Inc.",116068.0,Consumer Cyclical,United States
+DRI,"Darden Restaurants, Inc.",187384.0,Consumer Cyclical,United States
+DECK,Deckers Outdoor Corporation,4200.0,Consumer Cyclical,United States
+DPZ,Domino's Pizza Inc,6500.0,Consumer Cyclical,United States
+DHI,"D.R. Horton, Inc.",13450.0,Consumer Cyclical,United States
+EBAY,eBay Inc.,12300.0,Consumer Cyclical,United States
+ETSY,"Etsy, Inc.",2420.0,Consumer Cyclical,United States
+EXPE,"Expedia Group, Inc.",17100.0,Consumer Cyclical,United States
+F,Ford Motor Company,177000.0,Consumer Cyclical,United States
+GRMN,Garmin Ltd.,19900.0,Technology,Switzerland
+GM,General Motors Company,163000.0,Consumer Cyclical,United States
+GPC,Genuine Parts Company,60000.0,Consumer Cyclical,United States
+HAS,"Hasbro, Inc.",5502.0,Consumer Cyclical,United States
+HLT,Hilton Worldwide Holdings Inc.,178000.0,Consumer Cyclical,United States
+HD,"Home Depot, Inc. (The)",463100.0,Consumer Cyclical,United States
+LVS,Las Vegas Sands Corp.,38400.0,Consumer Cyclical,United States
+LEN,Lennar Corporation,12284.0,Consumer Cyclical,United States
+LKQ,LKQ Corporation,49000.0,Consumer Cyclical,United States
+LOW,"Lowe's Companies, Inc.",168000.0,Consumer Cyclical,United States
+LULU,lululemon athletica inc.,38000.0,Consumer Cyclical,Canada
+MAR,Marriott International,411000.0,Consumer Cyclical,United States
+MCD,McDonald's Corporation,100000.0,Consumer Cyclical,United States
+MGM,MGM Resorts International,58000.0,Consumer Cyclical,United States
+MHK,"Mohawk Industries, Inc.",43300.0,Consumer Cyclical,United States
+NKE,"Nike, Inc.",83700.0,Consumer Cyclical,United States
+NCLH,Norwegian Cruise Line Holdings ,41000.0,Consumer Cyclical,United States
+ORLY,"O'Reilly Automotive, Inc.",90189.0,Consumer Cyclical,United States
+POOL,Pool Corporation,6000.0,Industrials,United States
+PHM,"PulteGroup, Inc.",6382.0,Consumer Cyclical,United States
+RL,Ralph Lauren Corporation,14900.0,Consumer Cyclical,United States
+ROST,"Ross Stores, Inc.",108000.0,Consumer Cyclical,United States
+RCL,Royal Caribbean Cruises Ltd.,98100.0,Consumer Cyclical,United States
+SBUX,Starbucks Corporation,381000.0,Consumer Cyclical,United States
+TSLA,"Tesla, Inc.",140473.0,Consumer Cyclical,United States
+TJX,"TJX Companies, Inc. (The)",349000.0,Consumer Cyclical,United States
+TSCO,Tractor Supply Company,25000.0,Consumer Cyclical,United States
+ULTA,"Ulta Beauty, Inc.",20000.0,Consumer Cyclical,United States
+WYNN,"Wynn Resorts, Limited",27800.0,Consumer Cyclical,United States
+MO,"Altria Group, Inc.",6400.0,Consumer Defensive,United States
+ADM,Archer-Daniels-Midland Company,40213.0,Consumer Defensive,United States
+CPB,Campbell Soup Company,14500.0,Consumer Defensive,United States
+CHD,"Church & Dwight Company, Inc.",5550.0,Consumer Defensive,United States
+CLX,Clorox Company (The),8700.0,Consumer Defensive,United States
+KO,Coca-Cola Company (The),79100.0,Consumer Defensive,United States
+CL,Colgate-Palmolive Company,34000.0,Consumer Defensive,United States
+CAG,"ConAgra Brands, Inc.",18600.0,Consumer Defensive,United States
+STZ,"Constellation Brands, Inc.",10700.0,Consumer Defensive,United States
+COST,Costco Wholesale Corporation,316000.0,Consumer Defensive,United States
+GIS,"General Mills, Inc.",34000.0,Consumer Defensive,United States
+HSY,The Hershey Company,18650.0,Consumer Defensive,United States
+HRL,Hormel Foods Corporation,20000.0,Consumer Defensive,United States
+K,Kellanova,23000.0,Consumer Defensive,United States
+KVUE,Kenvue Inc.,22000.0,Consumer Defensive,United States
+KDP,Keurig Dr Pepper Inc.,28100.0,Consumer Defensive,United States
+KMB,Kimberly-Clark Corporation,41000.0,Consumer Defensive,United States
+KHC,The Kraft Heinz Company,36000.0,Consumer Defensive,United States
+KR,Kroger Company (The),414000.0,Consumer Defensive,United States
+LW,"Lamb Weston Holdings, Inc.",10200.0,Consumer Defensive,United States
+MKC,"McCormick & Company, Incorporat",13800.0,Consumer Defensive,United States
+TAP,Molson Coors Beverage Company,16500.0,Consumer Defensive,United States
+MDLZ,"Mondelez International, Inc.",91000.0,Consumer Defensive,United States
+MNST,Monster Beverage Corporation,5254.0,Consumer Defensive,United States
+PEP,"Pepsico, Inc.",318000.0,Consumer Defensive,United States
+PM,Philip Morris International Inc,82700.0,Consumer Defensive,United States
+PG,Procter & Gamble Company (The),107000.0,Consumer Defensive,United States
+SYY,Sysco Corporation,72000.0,Consumer Defensive,United States
+TGT,Target Corporation,415000.0,Consumer Defensive,United States
+TSN,"Tyson Foods, Inc.",139000.0,Consumer Defensive,United States
+WBA,"Walgreens Boots Alliance, Inc.",330000.0,Healthcare,United States
+WMT,Walmart Inc.,2100000.0,Consumer Defensive,United States
+APA,APA Corporation,2271.0,Energy,United States
+BKR,Baker Hughes Company,58000.0,Energy,United States
+CVX,Chevron Corporation,45600.0,Energy,United States
+COP,ConocoPhillips,9900.0,Energy,United States
+CTRA,Coterra Energy Inc.,894.0,Energy,United States
+DVN,Devon Energy Corporation,1900.0,Energy,United States
+FANG,"Diamondback Energy, Inc.",1023.0,Energy,United States
+EOG,"EOG Resources, Inc.",3050.0,Energy,United States
+EQT,EQT Corporation,881.0,Energy,United States
+XOM,Exxon Mobil Corporation,62000.0,Energy,United States
+HAL,Halliburton Company,48000.0,Energy,United States
+HES,Hess Corporation,1756.0,Energy,United States
+KMI,"Kinder Morgan, Inc.",10891.0,Energy,United States
+MRO,Marathon Oil Corporation,1681.0,Energy,United States
+MPC,Marathon Petroleum Corporation,18200.0,Energy,United States
+OXY,Occidental Petroleum Corporatio,12570.0,Energy,United States
+OKE,"ONEOK, Inc.",4775.0,Energy,United States
+PSX,Phillips 66,14000.0,Energy,United States
+PXD,Pioneer Natural Resources Compa,2213.0,Energy,United States
+SLB,Schlumberger N.V.,111000.0,Energy,United States
+TRGP,"Targa Resources, Inc.",3182.0,Energy,United States
+VLO,Valero Energy Corporation,9886.0,Energy,United States
+WMB,"Williams Companies, Inc. (The)",5601.0,Energy,United States
+ABT,Abbott Laboratories,114000.0,Healthcare,United States
+ABBV,AbbVie Inc.,50000.0,Healthcare,United States
+A,"Agilent Technologies, Inc.",17700.0,Healthcare,United States
+ALGN,"Align Technology, Inc.",21610.0,Healthcare,United States
+AMGN,Amgen Inc.,26700.0,Healthcare,United States
+BAX,Baxter International Inc.,60000.0,Healthcare,United States
+BDX,"Becton, Dickinson and Company",73000.0,Healthcare,United States
+BIO,"Bio-Rad Laboratories, Inc.",8030.0,Healthcare,United States
+TECH,Bio-Techne Corp,3200.0,Healthcare,United States
+BIIB,Biogen Inc.,7570.0,Healthcare,United States
+BSX,Boston Scientific Corporation,48000.0,Healthcare,United States
+BMY,Bristol-Myers Squibb Company,34100.0,Healthcare,United States
+CAH,"Cardinal Health, Inc.",47040.0,Healthcare,United States
+CTLT,"Catalent, Inc.",18000.0,Healthcare,United States
+COR,"Cencora, Inc.",42000.0,Healthcare,United States
+CNC,Centene Corporation,67700.0,Healthcare,United States
+CRL,Charles River Laboratories Inte,20400.0,Healthcare,United States
+CI,The Cigna Group,70325.0,Healthcare,United States
+COO,"The Cooper Companies, Inc.",15000.0,Healthcare,United States
+CVS,CVS Health Corporation,219000.0,Healthcare,United States
+DHR,Danaher Corporation,61000.0,Healthcare,United States
+DXCM,"DexCom, Inc.",9500.0,Healthcare,United States
+EW,Edwards Lifesciences Corporatio,19800.0,Healthcare,United States
+ELV,"Elevance Health, Inc.",104900.0,Healthcare,United States
+LLY,Eli Lilly and Company,43000.0,Healthcare,United States
+GEHC,GE HealthCare Technologies Inc.,51000.0,Healthcare,United States
+GILD,"Gilead Sciences, Inc.",18000.0,Healthcare,United States
+HCA,"HCA Healthcare, Inc.",220000.0,Healthcare,United States
+HSIC,"Henry Schein, Inc.",25000.0,Healthcare,United States
+HOLX,"Hologic, Inc.",6990.0,Healthcare,United States
+HUM,Humana Inc.,67600.0,Healthcare,United States
+IDXX,"IDEXX Laboratories, Inc.",11000.0,Healthcare,United States
+ILMN,"Illumina, Inc.",10590.0,Healthcare,United States
+INCY,Incyte Corporation,2524.0,Healthcare,United States
+PODD,Insulet Corporation,3000.0,Healthcare,United States
+ISRG,"Intuitive Surgical, Inc.",13676.0,Healthcare,United States
+IQV,"IQVIA Holdings, Inc.",87000.0,Healthcare,United States
+JNJ,Johnson & Johnson,131900.0,Healthcare,United States
+LH,Laboratory Corporation of Ameri,56950.0,Healthcare,United States
+MCK,McKesson Corporation,45000.0,Healthcare,United States
+MDT,Medtronic plc.,95000.0,Healthcare,Ireland
+MTD,"Mettler-Toledo International, I",16000.0,Healthcare,United States
+MRNA,"Moderna, Inc.",5600.0,Healthcare,United States
+MOH,Molina Healthcare Inc,18000.0,Healthcare,United States
+PFE,"Pfizer, Inc.",88000.0,Healthcare,United States
+DGX,Quest Diagnostics Incorporated,40000.0,Healthcare,United States
+REGN,"Regeneron Pharmaceuticals, Inc.",13450.0,Healthcare,United States
+RMD,ResMed Inc.,,Healthcare,United States
+RVTY,"Revvity, Inc.",11500.0,Healthcare,United States
+SOLV,Solventum Corporation,,Healthcare,United States
+STE,STERIS plc (Ireland),17000.0,Healthcare,Ireland
+SYK,Stryker Corporation,52000.0,Healthcare,United States
+TFX,Teleflex Incorporated,14500.0,Healthcare,United States
+TMO,Thermo Fisher Scientific Inc,122000.0,Healthcare,United States
+WST,"West Pharmaceutical Services, I",10600.0,Healthcare,United States
+ZBH,"Zimmer Biomet Holdings, Inc.",18000.0,Healthcare,United States
+ZTS,Zoetis Inc.,14100.0,Healthcare,United States
+ALLE,Allegion plc,12200.0,Industrials,Ireland
+AAL,"American Airlines Group, Inc.",132100.0,Industrials,United States
+AME,"AMETEK, Inc.",21500.0,Industrials,United States
+ADP,"Automatic Data Processing, Inc.",63000.0,Industrials,United States
+AXON,"Axon Enterprise, Inc.",3330.0,Industrials,United States
+BA,Boeing Company (The),171000.0,Industrials,United States
+BR,"Broadridge Financial Solutions,",14700.0,Technology,United States
+BLDR,"Builders FirstSource, Inc.",29000.0,Industrials,United States
+CARR,Carrier Global Corporation,53000.0,Industrials,United States
+CAT,"Caterpillar, Inc.",113200.0,Industrials,United States
+CTAS,Cintas Corporation,44500.0,Industrials,United States
+CPRT,"Copart, Inc.",12000.0,Industrials,United States
+CSX,CSX Corporation,23000.0,Industrials,United States
+CMI,Cummins Inc.,75500.0,Industrials,United States
+DAY,"Dayforce, Inc.",9084.0,Technology,United States
+DE,Deere & Company,83000.0,Industrials,United States
+DAL,"Delta Air Lines, Inc.",103000.0,Industrials,United States
+DOV,Dover Corporation,25000.0,Industrials,United States
+ETN,"Eaton Corporation, PLC",94000.0,Industrials,Ireland
+EMR,Emerson Electric Company,67000.0,Industrials,United States
+EFX,"Equifax, Inc.",14900.0,Industrials,United States
+EXPD,Expeditors International of Was,18100.0,Industrials,United States
+FAST,Fastenal Company,20721.0,Industrials,United States
+FDX,FedEx Corporation,328000.0,Industrials,United States
+FTV,Fortive Corporation,18000.0,Technology,United States
+GE,GE Aerospace,125000.0,Industrials,United States
+GNRC,Generac Holdlings Inc.,8315.0,Industrials,United States
+GD,General Dynamics Corporation,111600.0,Industrials,United States
+HON,Honeywell International Inc.,95000.0,Industrials,United States
+HWM,Howmet Aerospace Inc.,23200.0,Industrials,United States
+HUBB,Hubbell Inc,18317.0,Industrials,United States
+HII,"Huntington Ingalls Industries, ",44000.0,Industrials,United States
+IEX,IDEX Corporation,8800.0,Industrials,United States
+ITW,Illinois Tool Works Inc.,45000.0,Industrials,United States
+IR,Ingersoll Rand Inc.,18000.0,Industrials,United States
+J,Jacobs Solutions Inc.,60000.0,Industrials,United States
+JCI,Johnson Controls International ,100000.0,Industrials,Ireland
+LHX,"L3Harris Technologies, Inc.",50000.0,Industrials,United States
+LDOS,"Leidos Holdings, Inc.",47000.0,Technology,United States
+LMT,Lockheed Martin Corporation,122000.0,Industrials,United States
+MAS,Masco Corporation,18000.0,Industrials,United States
+NDSN,Nordson Corporation,7900.0,Industrials,United States
+NSC,Norfolk Southern Corporation,20700.0,Industrials,United States
+NOC,Northrop Grumman Corporation,101000.0,Industrials,United States
+ODFL,"Old Dominion Freight Line, Inc.",22902.0,Industrials,United States
+OTIS,Otis Worldwide Corporation,71000.0,Industrials,United States
+PCAR,PACCAR Inc.,32400.0,Industrials,United States
+PH,Parker-Hannifin Corporation,62730.0,Industrials,United States
+PAYX,"Paychex, Inc.",16000.0,Industrials,United States
+PAYC,"Paycom Software, Inc.",7308.0,Technology,United States
+PNR,Pentair plc.,10500.0,Industrials,United Kingdom
+PWR,"Quanta Services, Inc.",52500.0,Industrials,United States
+RSG,"Republic Services, Inc.",41000.0,Industrials,United States
+RHI,Robert Half Inc.,15000.0,Industrials,United States
+ROK,"Rockwell Automation, Inc.",29000.0,Industrials,United States
+SNA,Snap-On Incorporated,13200.0,Industrials,United States
+LUV,Southwest Airlines Company,74806.0,Industrials,United States
+TXT,Textron Inc.,35000.0,Industrials,United States
+TT,Trane Technologies plc,40000.0,Industrials,Ireland
+TDG,Transdigm Group Incorporated,15500.0,Industrials,United States
+UBER,"Uber Technologies, Inc.",30400.0,Technology,United States
+UNP,Union Pacific Corporation,32973.0,Industrials,United States
+UAL,"United Airlines Holdings, Inc.",103300.0,Industrials,United States
+UPS,"United Parcel Service, Inc.",265100.0,Industrials,United States
+URI,"United Rentals, Inc.",26300.0,Industrials,United States
+VLTO,Veralto Corp,15500.0,Industrials,United States
+VRSK,"Verisk Analytics, Inc.",7500.0,Industrials,United States
+WAB,Westinghouse Air Brake Technolo,29000.0,Industrials,United States
+WM,"Waste Management, Inc.",48000.0,Industrials,United States
+XYL,Xylem Inc.,23000.0,Industrials,United States
+ACN,Accenture plc,742000.0,Technology,Ireland
+ADBE,Adobe Inc.,29945.0,Technology,United States
+AMD,"Advanced Micro Devices, Inc.",26000.0,Technology,United States
+AKAM,"Akamai Technologies, Inc.",10250.0,Technology,United States
+APH,Amphenol Corporation,95000.0,Technology,United States
+ADI,"Analog Devices, Inc.",26000.0,Technology,United States
+ANSS,"ANSYS, Inc.",6200.0,Technology,United States
+AAPL,Apple Inc.,161000.0,Technology,United States
+AMAT,"Applied Materials, Inc.",34500.0,Technology,United States
+ANET,"Arista Networks, Inc.",4023.0,Technology,United States
+ADSK,"Autodesk, Inc.",,Technology,United States
+AVGO,Broadcom Inc.,20000.0,Technology,United States
+CDNS,"Cadence Design Systems, Inc.",11200.0,Technology,United States
+CDW,CDW Corporation,15100.0,Technology,United States
+CSCO,"Cisco Systems, Inc.",84900.0,Technology,United States
+CTSH,Cognizant Technology Solutions ,347700.0,Technology,United States
+ENPH,"Enphase Energy, Inc.",3157.0,Technology,United States
+EPAM,"EPAM Systems, Inc.",53150.0,Technology,United States
+FICO,Fair Isaac Corproation,3485.0,Technology,United States
+FSLR,"First Solar, Inc.",6700.0,Technology,United States
+FTNT,"Fortinet, Inc.",13568.0,Technology,United States
+IT,"Gartner, Inc.",20237.0,Technology,United States
+GEN,Gen Digital Inc.,3700.0,Technology,United States
+HPE,Hewlett Packard Enterprise Comp,62000.0,Technology,United States
+HPQ,HP Inc.,58000.0,Technology,United States
+IBM,International Business Machines,282200.0,Technology,United States
+INTC,Intel Corporation,124800.0,Technology,United States
+INTU,Intuit Inc.,18200.0,Technology,United States
+JBL,Jabil Inc.,236000.0,Technology,United States
+JNPR,"Juniper Networks, Inc.",11144.0,Technology,United States
+KEYS,Keysight Technologies Inc.,15500.0,Technology,United States
+KLAC,KLA Corporation,15000.0,Technology,United States
+LRCX,Lam Research Corporation,17200.0,Technology,United States
+MCHP,Microchip Technology Incorporat,22600.0,Technology,United States
+MU,"Micron Technology, Inc.",43000.0,Technology,United States
+MSFT,Microsoft Corporation,221000.0,Technology,United States
+MPWR,"Monolithic Power Systems, Inc.",3564.0,Technology,United States
+MSI,"Motorola Solutions, Inc.",21000.0,Technology,United States
+NTAP,"NetApp, Inc.",12000.0,Technology,United States
+NVDA,NVIDIA Corporation,29600.0,Technology,United States
+NXPI,NXP Semiconductors N.V.,34200.0,Technology,Netherlands
+ON,ON Semiconductor Corporation,30000.0,Technology,United States
+ORCL,Oracle Corporation,164000.0,Technology,United States
+PANW,"Palo Alto Networks, Inc.",14789.0,Technology,United States
+PTC,PTC Inc.,7168.0,Technology,United States
+QRVO,"Qorvo, Inc.",8500.0,Technology,United States
+QCOM,QUALCOMM Incorporated,50000.0,Technology,United States
+ROP,"Roper Technologies, Inc.",16800.0,Technology,United States
+CRM,"Salesforce, Inc.",72682.0,Technology,United States
+STX,Seagate Technology Holdings PLC,33400.0,Technology,Ireland
+NOW,"ServiceNow, Inc.",22668.0,Technology,United States
+SWKS,"Skyworks Solutions, Inc.",9750.0,Technology,United States
+SMCI,"Super Micro Computer, Inc.",5126.0,Technology,United States
+SNPS,"Synopsys, Inc.",20300.0,Technology,United States
+TDY,Teledyne Technologies Incorpora,14900.0,Technology,United States
+TER,"Teradyne, Inc.",6500.0,Technology,United States
+TXN,Texas Instruments Incorporated,34000.0,Technology,United States
+TRMB,Trimble Inc.,12700.0,Technology,United States
+TYL,"Tyler Technologies, Inc.",7300.0,Technology,United States
+VRSN,"VeriSign, Inc.",907.0,Technology,United States
+WDC,Western Digital Corporation,53000.0,Technology,United States
+ZBRA,Zebra Technologies Corporation,9750.0,Technology,United States
+ALB,Albemarle Corporation,9000.0,Basic Materials,United States
+AMCR,Amcor plc,41000.0,Consumer Cyclical,Switzerland
+AVY,Avery Dennison Corporation,35000.0,Consumer Cyclical,United States
+BALL,Ball Corporation,21000.0,Consumer Cyclical,United States
+CE,Celanese Corporation,12410.0,Basic Materials,United States
+CF,"CF Industries Holdings, Inc.",2700.0,Basic Materials,United States
+CTVA,"Corteva, Inc.",22500.0,Basic Materials,United States
+DOW,Dow Inc.,35900.0,Basic Materials,United States
+DD,"DuPont de Nemours, Inc.",24000.0,Basic Materials,United States
+EMN,Eastman Chemical Company,14000.0,Basic Materials,United States
+ECL,Ecolab Inc.,48000.0,Basic Materials,United States
+FMC,FMC Corporation,6600.0,Basic Materials,United States
+IP,International Paper Company,39000.0,Consumer Cyclical,United States
+LIN,Linde plc,66323.0,Basic Materials,United Kingdom
+LYB,LyondellBasell Industries NV,20000.0,Basic Materials,United States
+MLM,"Martin Marietta Materials, Inc.",9400.0,Basic Materials,United States
+NEM,Newmont Corporation,21700.0,Basic Materials,United States
+NUE,Nucor Corporation,32000.0,Basic Materials,United States
+BXP,"Boston Properties, Inc.",836.0,Real Estate,United States
+CPT,Camden Property Trust,1640.0,Real Estate,United States
+CBRE,CBRE Group Inc,130000.0,Real Estate,United States
+CSGP,"CoStar Group, Inc.",6152.0,Real Estate,United States
+CCI,Crown Castle Inc.,4700.0,Real Estate,United States
+DLR,"Digital Realty Trust, Inc.",3664.0,Real Estate,United States
+EQIX,"Equinix, Inc.",13151.0,Real Estate,United States
+EQR,Equity Residential,2400.0,Real Estate,United States
+ESS,"Essex Property Trust, Inc.",1747.0,Real Estate,United States
+EXR,Extra Space Storage Inc,7618.0,Real Estate,United States
+FRT,Federal Realty Investment Trust,297.0,Real Estate,United States
+DOC,"Healthpeak Properties, Inc.",193.0,Real Estate,United States
+HST,"Host Hotels & Resorts, Inc.",163.0,Real Estate,United States
+INVH,Invitation Homes Inc.,1555.0,Real Estate,United States
+IRM,Iron Mountain Incorporated (Del,27000.0,Real Estate,United States
+KIM,Kimco Realty Corporation (HC),660.0,Real Estate,United States
+PLD,"Prologis, Inc.",2574.0,Real Estate,United States
+PSA,Public Storage,6200.0,Real Estate,United States
+O,Realty Income Corporation,418.0,Real Estate,United States
+REG,Regency Centers Corporation,492.0,Real Estate,United States
+SBAC,SBA Communications Corporation,1787.0,Real Estate,United States
+SPG,"Simon Property Group, Inc.",2500.0,Real Estate,United States
+VTR,"Ventas, Inc.",486.0,Real Estate,United States
+VICI,VICI Properties Inc.,28.0,Real Estate,United States
+WELL,Welltower Inc.,533.0,Real Estate,United States
+WY,Weyerhaeuser Company,9318.0,Real Estate,United States
+AES,The AES Corporation,9600.0,Utilities,United States
+LNT,Alliant Energy Corporation,3281.0,Utilities,United States
+AEE,Ameren Corporation,9372.0,Utilities,United States
+AEP,American Electric Power Company,17250.0,Utilities,United States
+AWK,"American Water Works Company, I",6500.0,Utilities,United States
+ATO,Atmos Energy Corporation,5019.0,Utilities,United States
+CNP,"CenterPoint Energy, Inc (Holdin",8827.0,Utilities,United States
+CMS,CMS Energy Corporation,8356.0,Utilities,United States
+ED,"Consolidated Edison, Inc.",14592.0,Utilities,United States
+CEG,Constellation Energy Corporatio,13871.0,Utilities,United States
+D,"Dominion Energy, Inc.",17700.0,Utilities,United States
+DTE,DTE Energy Company,9950.0,Utilities,United States
+DUK,Duke Energy Corporation (Holdin,27037.0,Utilities,United States
+EIX,Edison International,13003.0,Utilities,United States
+ETR,Entergy Corporation,12177.0,Utilities,United States
+EVRG,"Evergy, Inc.",4658.0,Utilities,United States
+ES,Eversource Energy (D/B/A),10171.0,Utilities,United States
+EXC,Exelon Corporation,19962.0,Utilities,United States
+FE,FirstEnergy Corp.,12042.0,Utilities,United States
+NEE,"NextEra Energy, Inc.",16800.0,Utilities,United States
+NI,NiSource Inc,7364.0,Utilities,United States
+NRG,"NRG Energy, Inc.",18131.0,Utilities,United States
