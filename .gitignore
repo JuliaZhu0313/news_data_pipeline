@@ -1,1 +1,12 @@
 **/.DS_Store
+.venv/
+# Local configuration file
+.vscode/
+# AIRFLOW LOG FILES
+./logs/
+airflow-webserver.pid
+airflow.cfg 
+airflow.db
+airflow.db.dump
+standalone_admin_password.txt
+webserver_config.py
