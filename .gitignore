@@ -3,10 +3,11 @@
 # Local configuration file
 .vscode/
 # AIRFLOW LOG FILES
-./logs/
+logs/
 airflow-webserver.pid
 airflow.cfg 
 airflow.db
 airflow.db.dump
 standalone_admin_password.txt
 webserver_config.py
+**/__pycache__/
