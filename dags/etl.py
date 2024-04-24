@@ -131,7 +131,7 @@ def  Credit_Risk_Analysis_taskflow_api_etl():
         base_url = "https://api.worldnewsapi.com/search-news"
         counter = 0
         #api_key = "3bff9734cfbf4e1aa7b60c9fc224452d"
-        for comp in company['Security'][351:353]:
+        for comp in company['Security']:
             try:
                 api_key = api_list[counter]
                 name = "ORG: " + comp
@@ -220,21 +220,27 @@ def  Credit_Risk_Analysis_taskflow_api_etl():
         
         stocks = get_data_for_multiple_stocks(ticker)
         
+        return stocks
+    
+    def stock_transform(raw_stocks):
+        companies = pd.read_csv('datasets/constituents.csv')
+        ticker = companies['Symbol'].to_list()
+        
         for i in ticker:
-            data = stocks[i]
+            data = raw_stocks[i]
             data['Date'] = data['Date'].apply(str)
             data['Date'] = pd.to_datetime(data['Date'], infer_datetime_format=True)
-            stocks[i] = data 
+            raw_stocks[i] = data 
             
         df = pd.DataFrame()
-        for (key,value) in stocks.items():
+        for (key,value) in raw_stocks.items():
             df1 = pd.DataFrame(value)
             df = pd.concat([df, df1], ignore_index=True) 
         
         stock_file = 'stock/stock_price.csv'
         df.to_csv(stock_file)
         return stock_file
-   
+    
     company_rawfile = company_extract()
     company_file = company_transform(company_rawfile)
     
@@ -243,6 +249,7 @@ def  Credit_Risk_Analysis_taskflow_api_etl():
     
     news_file = news_extractions()
     
-    stock_file = stock_extract()
+    raw_stocks = stock_extract()
+    stock_file = stock_transform(raw_stocks)
 
 Credit_Risk_Analysis_etl_dag = Credit_Risk_Analysis_taskflow_api_etl()
