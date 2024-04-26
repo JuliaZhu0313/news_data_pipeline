@@ -62,7 +62,7 @@ industry_query = run_query(f"SELECT * FROM `{dataset_id}.{industry_id}`")
 industry = pd.DataFrame(industry_query)
 industry = industry.set_index('Industry')
 company_list = list(stock_price['Ticker'].unique())
-page = st.sidebar.radio(
+page = st.sidebar.selectbox(
     "Select your interested page",
     ('Company Analysis', 'News Summary', 'Industry Overview'))
 #page = 'Company Analysis'
