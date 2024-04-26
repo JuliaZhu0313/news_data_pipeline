@@ -34,5 +34,7 @@ We've used Airflow to construct a data pipeline that extracts, transforms, and l
 ## Downstream Application
 An interactive dashboard has been developed for users to utilize. It enables users to select the company they are interested in and visualize related news and financial information effectively, encouraging them to make more insightful investment decisions.
 
-Streamlit link : 
+Note : Please note that the first time you access this dashboard, it may take longer than usual to load. This is because certain data needs to be fetched and processed for display. However, subsequent visits will be much faster due to caching mechanisms in place.
+
+Streamlit link : [https://newsdatapipeline-dbbvyfvucd8uiifvtyoxer.streamlit.app/](https://newsdatapipeline-dbbvyfvucd8uiifvtyoxer.streamlit.app/)
 
