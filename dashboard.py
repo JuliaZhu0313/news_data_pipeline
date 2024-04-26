@@ -23,7 +23,10 @@ import string
 # Page config
 st.set_page_config(page_icon="💰", page_title="InvestorInsight", layout="wide")
 
-client = bigquery.Client()
+credentials = service_account.Credentials.from_service_account_info(
+    st.secrets["bigquery_account"]
+)
+client = bigquery.Client(credentials=credentials)
 @st.cache_data
 
 #Function to read data from BigQuery
