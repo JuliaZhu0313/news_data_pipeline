@@ -11,10 +11,8 @@ import os
 import numpy as np
 import pandas as pd
 import plotly.express as px
-from langdetect import detect
 from wordcloud import WordCloud
 import plotly.graph_objects as go
-import re
 #import nltk
 #nltk.download('stopwords')
 #from nltk.corpus import stopwords
@@ -24,7 +22,7 @@ import string
 st.set_page_config(page_icon="💰", page_title="InvestorInsight", layout="wide")
 
 credentials = service_account.Credentials.from_service_account_info(
-    st.secrets["gcp_service_account"]
+    st.secrets["big_query_account"]
 )
 client = bigquery.Client(credentials=credentials)
 @st.cache_data
